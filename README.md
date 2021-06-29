@@ -1,4 +1,4 @@
-## This is a simple password generator with tkinter. ##
+## Simple password generator with tkinter. ##
 
 Input how many characters do you want on your password.
 
